@@ -97,5 +97,4 @@ if (bMonth == 1&& bDay >= 20 || bMonth == 2 && bDay <= 18
  document.getElementById("output").innerHTML= ZodiacSign;
 }
   
- 
 
